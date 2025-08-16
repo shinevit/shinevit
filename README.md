@@ -1,8 +1,9 @@
-## 👋 Hey there, I am Vitalii.
-![Job Status](https://img.shields.io/badge/⭐%20Job_status%20⭐-%20seeking%20-brightgreen)
-![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=shinevit.shinevit)
+## 👋 Hey there, I am Vitalii
+#### Functional Programming | Backend architecture | Tech Leadership
 
-Welcome to my page!
+![Job Status](https://img.shields.io/badge/⭐%20Job_status%20⭐-%20Open%20to%20work%20-brightgreen)
+
+<p>Welcome to my page!</p>
 
 <!--
 **shinevit/shinevit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -155,8 +156,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/http4s-darkgreen?style=flat" height="22" />
 <img src="https://img.shields.io/badge/Play2-darkgreen?style=flat" height="22" />
 <img src="https://img.shields.io/badge/fs2-darkgreen?style=flat" height="22" />
-<img src="https://img.shields.io/badge/Akka Framework-darkgreen?style=flat" height="22" />
-<img src="https://img.shields.io/badge/Akka (Http, Streams)-darkgreen?style=flat" height="22" />
+<img src="https://img.shields.io/badge/Akka Framework (Actors, Http, Streams)-darkgreen?style=flat" height="22" />
 <img src="https://img.shields.io/badge/Doobie-darkgreen?style=flat" height="22" />
 <img src="https://img.shields.io/badge/Slick-darkgreen?style=flat" height="22" />
 <img src="https://img.shields.io/badge/ScalaTest-darkgreen?style=flat" height="22" />
@@ -207,3 +207,12 @@ Here are some ideas to get you started:
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinevit&layout=compact&theme=vision-friendly-white)
+
+
+[![Profile Views counter badge](https://u8views.com/api/v1/github/profiles/23308992/views/day-week-month-total-count.svg)](https://u8views.com/github/shinevit)
+<!-- <a href="https://u8views.com/github/shinevit">
+    <img src="https://u8views.com/api/v1/github/profiles/23308992/views/day-week-month-total-count.svg">
+</a> -->
+
+<!-- Yet Another Counter
+![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=shinevit.shinevit) -->
